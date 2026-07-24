@@ -1,0 +1,25 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1784847241
+butterfly spritesheet.png::CompressedTexture2D::430270271837624131::1784677798::1784677799::1::::<><><>0<>0<>43ccda278e60a4e8364f56a40d493858<>res://.godot/imported/butterfly spritesheet.png-0fe5faa389f4ad20097748f841421ca6.ctex::
+cenario_grama.tscn::PackedScene::2624609464543952267::1784763278::0::1::::<><><>0<>0<><>::uid://dc6bp3hojosty::::res://summer tilemap.png<>uid://bkgs66ngrvo2f::::res://summer and spring items.png
+ChatGPT Image 22 de jul. de 2026, 16_06_15.png::CompressedTexture2D::3213518277561357239::1784747364::1784747350::1::::<><><>0<>0<>5420ad85144d4c24c5f67dd46a19d712<>res://.godot/imported/ChatGPT Image 22 de jul. de 2026, 16_06_15.png-b303f367af3a53c906cd12724768b90b.ctex::
+Crop_Spritesheet.png::CompressedTexture2D::653122921029990624::1784649721::1784649721::1::::<><><>0<>0<>284e685039d5a64931a50247599abafe<>res://.godot/imported/Crop_Spritesheet.png-96458d446019a1ddac999950eeff8dff.ctex::
+dados.gd::GDScript::4643765880598185162::1784673360::0::1::::<>Node<><>0<>0<><>::
+data_hora.gd::GDScript::7342571383706909946::1784758377::0::1::::<>Label<><>0<>0<><>::
+dentro_casa.tscn::PackedScene::7805527530303674336::1784769064::0::1::::<><><>0<>0<><>::uid://ni8pse31hgmr::::res://inside.png<>uid://cwjtt2lcqabey::::res://furniture.png<>uid://bdsaudat40hr1::::res://fazendeiro.tscn
+dinis_movement_32x32.png::CompressedTexture2D::1268971493207685188::1784841482::1784841482::1::::<><><>0<>0<>9f2862c63f4994ec3593be1a0b7eb263<>res://.godot/imported/dinis_movement_32x32.png-9a23da203d8f9927bfa3934402be0320.ctex::
+dinis_movement_48x48.png::CompressedTexture2D::6197417869769818105::1784847241::1784847242::1::::<><><>0<>0<>8c301f20f9bb71a0365ce16110430bd7<>res://.godot/imported/dinis_movement_48x48.png-54037960cab4b3d137d33e6bb03f0c31.ctex::
+fazendeiro.gd::GDScript::6897884090539119999::1784763437::0::1::::<>CharacterBody2D<><>0<>0<><>::
+fazendeiro.tscn::PackedScene::2634181888531440624::1784769066::0::1::::<><><>0<>0<><>::uid://c5jne4rprs8yl::::res://fazendeiro.gd<>uid://bo8j46tyx50bx::::res://walk and idle.png
+furniture.png::CompressedTexture2D::6336764315391764388::1784760933::1784760933::1::::<><><>0<>0<>99bf8e195f80ee5827ce216c727dc4c3<>res://.godot/imported/furniture.png-59d2f047d9ddaa49137de2caf09a1a18.ctex::
+icon.svg::CompressedTexture2D::1877224574531018869::1784646124::1784646131::1::::<><><>0<>0<>53f12a68f05a0d05b87f61777eaa8e6b<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+inside.png::CompressedTexture2D::931001389903505305::1784760912::1784760912::1::::<><><>0<>0<>33a9dda98fe8d254f483f01d59b80bc0<>res://.godot/imported/inside.png-5cb2affbeda87ee3b2cd193bfee7db72.ctex::
+main.gd::GDScript::7807953741289601327::1784758560::0::1::::<>Node2D<><>0<>0<><>::
+Main.tscn::PackedScene::5981912487272721853::1784766572::0::1::::<><><>0<>0<><>::uid://bdnm61gqfd13d::::res://cenario_grama.tscn<>uid://djih4fd1w1m7p::::res://main.gd<>uid://bdsaudat40hr1::::res://fazendeiro.tscn<>uid://h7gp0obdvmjh::::res://tomate.gd<>uid://jkm3r8qbtqfo::::res://Crop_Spritesheet.png<>uid://dc6bp3hojosty::::res://summer tilemap.png<>uid://geoquysx28jf::::res://butterfly spritesheet.png<>uid://dcu2cwc3b0q0q::::res://data_hora.gd
+milho.gd::GDScript::5710337723670126063::1784751034::0::1::::<>Area2D<><>0<>0<><>::
+milho.tscn::PackedScene::1337736168320190225::1784751167::0::1::::<><><>0<>0<><>::uid://jkm3r8qbtqfo::::res://Crop_Spritesheet.png<>uid://cnmeos127iagd::::res://milho.gd
+objects.png::CompressedTexture2D::6299761295782755089::1784760937::1784760938::1::::<><><>0<>0<>60210782471e85826da5a7b422be0538<>res://.godot/imported/objects.png-b2708fe6754e3b7124ffb60a67d390df.ctex::
+summer and spring items.png::CompressedTexture2D::3101845300681116299::1784646928::1784646929::1::::<><><>0<>0<>f6c1493720774123db3620d8a5c69d25<>res://.godot/imported/summer and spring items.png-7db83a8850df6797488660f35640f65c.ctex::
+summer tilemap.png::CompressedTexture2D::7363724434748690534::1784646703::1784646703::1::::<><><>0<>0<>a9a840129741ac849f1c7e4c203e26d9<>res://.godot/imported/summer tilemap.png-ad0a7a0c27edd27cdccceaee4018c135.ctex::
+tomate.gd::GDScript::557774417222611169::1784753962::0::1::::<>Area2D<><>0<>0<><>::
+walk and idle.png::CompressedTexture2D::3437788860165199549::1784648178::1784648178::1::::<><><>0<>0<>c354dd039b0d44d84cd9ad76c349294f<>res://.godot/imported/walk and idle.png-c586d29fcfd34ba9c94bf92ae9728569.ctex::
